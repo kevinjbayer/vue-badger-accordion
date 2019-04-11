@@ -71,7 +71,7 @@ export default {
     .badger-accordion--initialized {
 
         .badger-accordion__panel {
-            transition: max-height ease-in-out 0.2s;
+            transition: max-height ease-in-out 0.5s;
         }
     }
 
